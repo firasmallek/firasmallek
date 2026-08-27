@@ -1,16 +1,20 @@
-## Hi there 👋
+## Hey there 👋
 
-<!--
-**firasmallek/firasmallek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm **Firas**, a high school Computer Science student learning how to build with code and understand how technology works.
 
-Here are some ideas to get you started:
+I'm currently exploring **programming, algorithms, databases, software development, and different areas of Computer Science**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm focused on **learning, building projects, and discovering what I want to specialize in**.
+
+### Currently learning
+
+* 💻 Programming & Computer Science
+* 🧠 Algorithms & problem solving
+* 🛠️ Building projects & experimenting
+* 🚀 Exploring new technologies
+
+### Find me
+
+🌐 **[Portfolio](https://firasmallek.se)**
+💼 **[LinkedIn](https://www.linkedin.com/)**
+🐙 **[GitHub](https://github.com/)**
