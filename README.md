@@ -15,6 +15,6 @@ I'm focused on **learning, building projects, and discovering what I want to spe
 
 ### Find me
 
-🌐 **[Portfolio](https://firasmallek.se)**
-💼 **[LinkedIn](https://www.linkedin.com/)**
-🐙 **[GitHub](https://github.com/)**
+🌐 **[Portfolio](https://firasmallek.vercel.app/)**
+💼 **[LinkedIn](https://www.linkedin.com/in/firas-mallek/)**
+📧 **[Email](mailto:firas.mallek00@gmail.com)**
