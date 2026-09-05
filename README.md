@@ -1,4 +1,4 @@
-## Hey there 👋
+## Hey there 👋 
 
 I'm **Firas**, a high school Computer Science student learning how to build with code and understand how technology works.
 
